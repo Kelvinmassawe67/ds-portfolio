@@ -1,0 +1,5 @@
+timestamp,step,status,message
+2026-03-08 18:57:03,Extract,SUCCESS,"5,000 invoices extracted"
+2026-03-08 18:57:03,Transform,SUCCESS,4 analytical tables created
+2026-03-08 18:57:03,Load,SUCCESS,Data warehouse: /home/claude/ds-portfolio/project2-erp-pipeline/src/../data/erp_warehouse.db
+2026-03-08 18:57:03,Pipeline,COMPLETE,Duration: 8.5s

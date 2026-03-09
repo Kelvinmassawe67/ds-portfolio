@@ -1,0 +1,1001 @@
+customer_id,company_name,segment,city,country,credit_limit,created_date,is_active
+C0001,Company_1,Government,Houston,USA,167993,2022-01-06,1
+C0002,Company_2,Non-profit,Houston,Germany,372003,2023-10-21,1
+C0003,Company_3,Startup,Phoenix,USA,152309,2020-03-09,1
+C0004,Company_4,Non-profit,London,USA,112507,2020-10-25,1
+C0005,Company_5,Non-profit,Phoenix,France,406460,2022-08-01,1
+C0006,Company_6,SMB,London,UK,19743,2022-03-12,1
+C0007,Company_7,Startup,Paris,USA,233174,2020-10-22,1
+C0008,Company_8,Startup,New York,Canada,51101,2020-07-21,1
+C0009,Company_9,Startup,Paris,Germany,247717,2020-03-01,1
+C0010,Company_10,Non-profit,Berlin,USA,126534,2022-08-03,1
+C0011,Company_11,Government,Philadelphia,UK,351371,2022-08-20,1
+C0012,Company_12,Startup,Chicago,UK,235604,2023-08-30,1
+C0013,Company_13,Non-profit,London,USA,192450,2023-03-30,1
+C0014,Company_14,SMB,Berlin,USA,338270,2020-11-26,1
+C0015,Company_15,Government,Philadelphia,USA,323215,2020-12-03,1
+C0016,Company_16,SMB,Dallas,UK,207193,2023-08-20,1
+C0017,Company_17,Government,New York,USA,341907,2023-09-23,1
+C0018,Company_18,Non-profit,Phoenix,France,492030,2021-09-30,1
+C0019,Company_19,Enterprise,Phoenix,UK,240422,2020-10-01,1
+C0020,Company_20,Government,Paris,USA,410453,2023-04-02,1
+C0021,Company_21,SMB,Houston,UK,151721,2020-11-14,1
+C0022,Company_22,Non-profit,Philadelphia,USA,173785,2021-08-11,1
+C0023,Company_23,Government,Dallas,UK,209535,2021-05-18,1
+C0024,Company_24,Enterprise,Berlin,UK,181481,2021-01-21,1
+C0025,Company_25,Enterprise,New York,USA,184838,2022-05-19,1
+C0026,Company_26,Startup,Philadelphia,USA,51154,2022-04-12,1
+C0027,Company_27,Startup,Dallas,USA,274160,2022-10-11,1
+C0028,Company_28,SMB,Chicago,USA,477779,2021-08-25,0
+C0029,Company_29,Government,London,USA,446904,2021-11-21,1
+C0030,Company_30,Government,Phoenix,USA,356822,2021-05-08,0
+C0031,Company_31,Startup,Berlin,Canada,379200,2021-05-04,1
+C0032,Company_32,Government,Phoenix,USA,59238,2021-12-21,1
+C0033,Company_33,Government,Berlin,USA,325752,2023-01-01,1
+C0034,Company_34,Enterprise,Paris,UK,94081,2021-05-23,1
+C0035,Company_35,Startup,Houston,USA,252644,2021-01-24,1
+C0036,Company_36,Non-profit,Berlin,Canada,430113,2020-10-21,1
+C0037,Company_37,Startup,Phoenix,UK,318105,2023-10-24,1
+C0038,Company_38,Non-profit,Paris,Germany,204775,2022-03-06,0
+C0039,Company_39,Enterprise,Berlin,USA,442973,2022-05-14,1
+C0040,Company_40,SMB,Chicago,USA,294061,2021-07-02,1
+C0041,Company_41,Government,Houston,USA,420952,2021-10-10,1
+C0042,Company_42,Enterprise,Berlin,France,295134,2021-07-21,1
+C0043,Company_43,Government,Paris,USA,67551,2023-04-25,1
+C0044,Company_44,SMB,Philadelphia,USA,456377,2022-05-02,1
+C0045,Company_45,SMB,Los Angeles,Canada,215695,2022-02-08,0
+C0046,Company_46,Enterprise,Dallas,USA,158512,2021-03-20,1
+C0047,Company_47,SMB,Los Angeles,USA,171277,2020-12-28,1
+C0048,Company_48,Non-profit,Los Angeles,USA,85811,2020-05-02,1
+C0049,Company_49,SMB,New York,Canada,259840,2023-04-26,1
+C0050,Company_50,Government,Chicago,USA,322247,2022-01-11,1
+C0051,Company_51,Government,Philadelphia,Germany,469028,2021-11-10,1
+C0052,Company_52,Government,London,Germany,439843,2021-02-23,1
+C0053,Company_53,Government,Berlin,USA,373266,2023-06-29,1
+C0054,Company_54,Non-profit,Dallas,UK,239104,2023-09-20,1
+C0055,Company_55,Startup,Houston,USA,24008,2020-04-01,1
+C0056,Company_56,Enterprise,Philadelphia,USA,207346,2020-03-03,1
+C0057,Company_57,Government,Phoenix,Germany,37402,2021-05-26,1
+C0058,Company_58,SMB,London,France,189456,2023-03-08,1
+C0059,Company_59,Government,New York,UK,264994,2023-04-23,1
+C0060,Company_60,SMB,New York,UK,404009,2023-05-13,1
+C0061,Company_61,SMB,Philadelphia,USA,141643,2022-02-10,1
+C0062,Company_62,Government,Paris,USA,495083,2023-05-22,1
+C0063,Company_63,Non-profit,Los Angeles,USA,414425,2020-09-12,1
+C0064,Company_64,SMB,Phoenix,USA,118550,2020-05-14,1
+C0065,Company_65,SMB,New York,USA,489146,2022-05-24,1
+C0066,Company_66,Government,Dallas,USA,441364,2022-04-01,1
+C0067,Company_67,SMB,New York,USA,96218,2020-03-28,1
+C0068,Company_68,SMB,Houston,USA,138296,2022-09-14,1
+C0069,Company_69,Government,Berlin,UK,184767,2023-05-15,1
+C0070,Company_70,Government,New York,France,387923,2023-02-26,1
+C0071,Company_71,Enterprise,Houston,USA,396858,2022-04-02,1
+C0072,Company_72,Non-profit,Philadelphia,Canada,246060,2022-10-23,1
+C0073,Company_73,Non-profit,Philadelphia,France,245016,2022-08-31,1
+C0074,Company_74,SMB,London,USA,37441,2022-07-22,0
+C0075,Company_75,Non-profit,New York,Germany,243038,2020-04-30,1
+C0076,Company_76,SMB,Dallas,UK,175201,2023-11-09,1
+C0077,Company_77,Enterprise,New York,UK,236324,2022-11-27,0
+C0078,Company_78,Government,Dallas,USA,329512,2023-09-26,1
+C0079,Company_79,Government,Chicago,UK,97122,2022-10-04,1
+C0080,Company_80,Government,London,USA,49760,2022-07-13,1
+C0081,Company_81,Non-profit,Chicago,UK,290622,2021-10-06,1
+C0082,Company_82,Enterprise,New York,UK,395025,2021-12-14,1
+C0083,Company_83,Non-profit,London,UK,338998,2022-05-09,1
+C0084,Company_84,Non-profit,Chicago,UK,361374,2020-01-21,1
+C0085,Company_85,Enterprise,Los Angeles,Germany,352860,2020-08-29,1
+C0086,Company_86,Enterprise,New York,USA,148252,2021-03-30,1
+C0087,Company_87,Enterprise,Chicago,USA,103538,2022-08-20,1
+C0088,Company_88,Enterprise,Los Angeles,France,20372,2021-09-12,1
+C0089,Company_89,Government,Los Angeles,USA,296940,2020-10-29,1
+C0090,Company_90,Startup,Philadelphia,USA,456488,2022-03-13,1
+C0091,Company_91,Startup,New York,USA,226035,2022-08-21,1
+C0092,Company_92,Enterprise,Los Angeles,USA,365970,2020-03-09,1
+C0093,Company_93,Startup,Philadelphia,Canada,387736,2023-02-26,1
+C0094,Company_94,Startup,Chicago,UK,360779,2020-07-14,1
+C0095,Company_95,Enterprise,Houston,Canada,116022,2020-05-19,1
+C0096,Company_96,Startup,New York,UK,59040,2020-10-09,1
+C0097,Company_97,Non-profit,London,USA,342501,2020-11-07,1
+C0098,Company_98,SMB,Dallas,USA,207440,2022-01-15,1
+C0099,Company_99,SMB,Dallas,UK,83356,2020-10-03,1
+C0100,Company_100,Enterprise,Chicago,USA,283355,2020-03-01,1
+C0101,Company_101,Government,Paris,France,372570,2023-09-04,1
+C0102,Company_102,Enterprise,Paris,France,272986,2020-02-21,1
+C0103,Company_103,Government,Chicago,USA,461331,2020-06-01,1
+C0104,Company_104,SMB,Los Angeles,Canada,333996,2023-08-27,1
+C0105,Company_105,Enterprise,New York,France,392881,2021-06-27,0
+C0106,Company_106,Non-profit,Dallas,UK,313112,2021-07-20,0
+C0107,Company_107,Startup,Dallas,USA,284652,2023-11-13,1
+C0108,Company_108,Government,Los Angeles,USA,158077,2021-09-13,1
+C0109,Company_109,Startup,Dallas,UK,59575,2023-04-15,1
+C0110,Company_110,Startup,London,USA,478958,2023-10-17,1
+C0111,Company_111,Enterprise,New York,USA,155043,2020-11-09,1
+C0112,Company_112,Startup,Berlin,Germany,423815,2022-03-17,0
+C0113,Company_113,Non-profit,Dallas,USA,485808,2022-04-27,1
+C0114,Company_114,Startup,Chicago,UK,71914,2020-04-06,1
+C0115,Company_115,Enterprise,London,Canada,254134,2022-05-30,1
+C0116,Company_116,Non-profit,Dallas,France,72055,2023-05-21,0
+C0117,Company_117,SMB,London,USA,92697,2022-04-08,1
+C0118,Company_118,Startup,Philadelphia,France,111239,2020-05-16,1
+C0119,Company_119,Enterprise,Berlin,USA,240469,2022-10-26,1
+C0120,Company_120,SMB,Phoenix,USA,128106,2022-10-07,1
+C0121,Company_121,SMB,Chicago,UK,272499,2020-04-18,1
+C0122,Company_122,Government,Chicago,USA,321264,2021-06-30,0
+C0123,Company_123,Non-profit,New York,USA,472835,2022-11-28,1
+C0124,Company_124,Startup,London,UK,305486,2021-10-23,1
+C0125,Company_125,Enterprise,Los Angeles,USA,484208,2021-02-28,1
+C0126,Company_126,Government,Chicago,USA,477076,2021-09-21,1
+C0127,Company_127,Non-profit,London,USA,7257,2020-09-17,1
+C0128,Company_128,Government,London,Germany,294508,2023-12-20,1
+C0129,Company_129,Non-profit,Houston,UK,161044,2020-03-27,1
+C0130,Company_130,Non-profit,Houston,USA,116715,2021-04-09,1
+C0131,Company_131,Startup,Phoenix,USA,31654,2020-03-16,1
+C0132,Company_132,Non-profit,Philadelphia,USA,216841,2021-04-15,1
+C0133,Company_133,Government,Phoenix,USA,348567,2021-02-17,1
+C0134,Company_134,Non-profit,Dallas,Germany,296464,2022-04-04,1
+C0135,Company_135,Startup,Los Angeles,USA,25808,2022-06-13,1
+C0136,Company_136,Startup,Dallas,USA,57389,2021-12-26,1
+C0137,Company_137,Government,Paris,UK,493906,2021-04-01,1
+C0138,Company_138,SMB,Dallas,UK,123581,2023-08-01,1
+C0139,Company_139,SMB,New York,UK,132927,2023-06-16,1
+C0140,Company_140,Non-profit,Dallas,USA,39773,2021-10-14,1
+C0141,Company_141,Enterprise,Phoenix,USA,187240,2021-11-02,1
+C0142,Company_142,Non-profit,Chicago,USA,425963,2023-10-27,1
+C0143,Company_143,Government,Chicago,USA,343540,2021-05-09,1
+C0144,Company_144,Government,Houston,UK,374836,2022-12-04,0
+C0145,Company_145,Government,Los Angeles,France,219764,2023-11-25,1
+C0146,Company_146,Government,Los Angeles,Germany,62505,2023-06-24,1
+C0147,Company_147,Government,New York,Germany,353040,2021-08-19,1
+C0148,Company_148,Startup,Phoenix,USA,23135,2021-03-25,0
+C0149,Company_149,SMB,Houston,UK,95887,2021-04-29,1
+C0150,Company_150,Government,Paris,USA,127118,2021-10-07,1
+C0151,Company_151,Enterprise,Los Angeles,UK,494251,2021-09-11,1
+C0152,Company_152,Enterprise,Chicago,USA,314521,2022-11-07,1
+C0153,Company_153,Enterprise,Dallas,USA,159626,2021-10-23,1
+C0154,Company_154,Enterprise,Dallas,USA,329635,2022-01-27,1
+C0155,Company_155,Startup,Houston,Canada,453837,2020-10-15,1
+C0156,Company_156,Enterprise,Phoenix,USA,250739,2023-12-08,1
+C0157,Company_157,Government,Phoenix,USA,325427,2021-12-21,1
+C0158,Company_158,Non-profit,Philadelphia,USA,483356,2021-09-29,1
+C0159,Company_159,Enterprise,Berlin,Germany,284067,2020-08-22,1
+C0160,Company_160,Startup,Los Angeles,UK,314735,2021-02-19,1
+C0161,Company_161,Startup,Phoenix,UK,67261,2022-07-26,1
+C0162,Company_162,Enterprise,Chicago,USA,321480,2021-05-13,0
+C0163,Company_163,Non-profit,Houston,UK,341227,2022-08-31,1
+C0164,Company_164,Enterprise,Paris,USA,65948,2021-09-25,1
+C0165,Company_165,Startup,Philadelphia,France,245891,2022-10-16,1
+C0166,Company_166,SMB,London,UK,169074,2020-04-24,1
+C0167,Company_167,Government,New York,USA,478314,2022-07-20,1
+C0168,Company_168,Startup,Paris,USA,471232,2021-11-04,1
+C0169,Company_169,Enterprise,London,USA,293816,2023-06-11,1
+C0170,Company_170,Government,Dallas,USA,271357,2022-10-31,1
+C0171,Company_171,Enterprise,New York,USA,146365,2020-07-24,1
+C0172,Company_172,Enterprise,Los Angeles,UK,498193,2020-09-03,1
+C0173,Company_173,SMB,Chicago,USA,454076,2022-01-27,1
+C0174,Company_174,Government,New York,USA,67507,2023-02-24,1
+C0175,Company_175,Government,Berlin,USA,62134,2020-05-26,1
+C0176,Company_176,SMB,London,USA,138172,2020-04-27,1
+C0177,Company_177,Startup,Los Angeles,France,246225,2023-11-06,0
+C0178,Company_178,Enterprise,Berlin,USA,198069,2021-02-15,1
+C0179,Company_179,Non-profit,Dallas,UK,295316,2020-12-28,1
+C0180,Company_180,Enterprise,Berlin,France,287276,2020-05-16,1
+C0181,Company_181,Enterprise,Philadelphia,UK,253933,2023-04-13,1
+C0182,Company_182,Startup,Philadelphia,France,285343,2023-08-05,1
+C0183,Company_183,Enterprise,Houston,USA,41609,2022-08-15,1
+C0184,Company_184,SMB,Paris,Canada,179037,2020-01-19,1
+C0185,Company_185,SMB,Paris,USA,144088,2020-07-13,1
+C0186,Company_186,Government,Los Angeles,USA,437995,2020-11-25,1
+C0187,Company_187,Non-profit,Dallas,UK,299025,2020-06-23,1
+C0188,Company_188,Enterprise,Phoenix,Canada,218666,2022-09-28,1
+C0189,Company_189,Enterprise,Philadelphia,France,291616,2021-03-24,1
+C0190,Company_190,Startup,Los Angeles,USA,498678,2022-08-03,1
+C0191,Company_191,SMB,Phoenix,USA,187885,2023-10-09,1
+C0192,Company_192,Non-profit,Paris,Canada,236440,2020-05-20,1
+C0193,Company_193,Government,Houston,USA,262803,2022-01-27,1
+C0194,Company_194,SMB,Berlin,Germany,172093,2022-07-18,1
+C0195,Company_195,Government,Philadelphia,France,321275,2020-04-02,1
+C0196,Company_196,Startup,Los Angeles,USA,160159,2020-08-26,1
+C0197,Company_197,Startup,New York,USA,17828,2020-07-23,1
+C0198,Company_198,Enterprise,Phoenix,USA,459826,2021-07-13,1
+C0199,Company_199,Non-profit,Berlin,USA,363808,2023-12-27,1
+C0200,Company_200,Government,Philadelphia,France,137473,2020-09-01,1
+C0201,Company_201,SMB,Paris,USA,483395,2022-04-11,1
+C0202,Company_202,Startup,Dallas,France,282337,2023-09-02,1
+C0203,Company_203,Enterprise,Phoenix,USA,228461,2022-07-13,1
+C0204,Company_204,Enterprise,Paris,Canada,443080,2020-10-21,1
+C0205,Company_205,Government,Philadelphia,USA,418523,2021-10-01,1
+C0206,Company_206,Startup,Phoenix,USA,369662,2022-05-05,1
+C0207,Company_207,Non-profit,Berlin,USA,286755,2023-07-29,1
+C0208,Company_208,Startup,Philadelphia,Germany,179863,2020-01-17,1
+C0209,Company_209,Government,London,UK,410166,2020-03-11,1
+C0210,Company_210,Government,Los Angeles,France,343384,2023-07-16,1
+C0211,Company_211,Startup,Berlin,USA,244719,2023-09-10,1
+C0212,Company_212,Government,Phoenix,USA,213475,2020-10-31,1
+C0213,Company_213,Startup,Dallas,UK,269889,2022-10-27,1
+C0214,Company_214,SMB,Paris,USA,322387,2023-08-30,1
+C0215,Company_215,Startup,New York,USA,271010,2022-03-27,1
+C0216,Company_216,Startup,Paris,Canada,168317,2023-01-31,1
+C0217,Company_217,Government,Phoenix,Canada,442940,2022-03-31,1
+C0218,Company_218,Government,Paris,Canada,395825,2020-07-11,1
+C0219,Company_219,Enterprise,Los Angeles,Germany,76354,2021-06-12,1
+C0220,Company_220,Enterprise,Philadelphia,USA,56374,2020-06-19,1
+C0221,Company_221,SMB,New York,USA,119397,2020-09-07,1
+C0222,Company_222,Enterprise,Chicago,UK,253552,2023-11-11,1
+C0223,Company_223,Startup,Phoenix,France,391721,2023-05-15,1
+C0224,Company_224,Government,Houston,USA,428332,2021-06-24,1
+C0225,Company_225,Enterprise,Chicago,USA,348173,2021-02-19,0
+C0226,Company_226,Enterprise,Paris,USA,360718,2022-03-04,1
+C0227,Company_227,SMB,Phoenix,UK,418663,2023-11-04,0
+C0228,Company_228,SMB,London,France,297575,2023-03-13,0
+C0229,Company_229,Startup,Houston,Germany,416124,2020-01-25,1
+C0230,Company_230,Government,New York,USA,34336,2021-10-29,1
+C0231,Company_231,SMB,Dallas,Canada,308136,2023-01-01,1
+C0232,Company_232,Enterprise,London,UK,60350,2021-09-23,1
+C0233,Company_233,Government,Chicago,USA,74561,2023-01-21,1
+C0234,Company_234,Government,Philadelphia,USA,319099,2021-05-19,1
+C0235,Company_235,Enterprise,Los Angeles,USA,66240,2020-12-01,1
+C0236,Company_236,SMB,Dallas,USA,156165,2021-02-28,1
+C0237,Company_237,Enterprise,London,Canada,404371,2021-05-13,1
+C0238,Company_238,Government,Philadelphia,USA,51607,2023-10-19,1
+C0239,Company_239,Non-profit,Philadelphia,France,431703,2022-08-04,1
+C0240,Company_240,Non-profit,Phoenix,USA,191740,2021-09-21,1
+C0241,Company_241,Startup,London,USA,419179,2023-05-07,1
+C0242,Company_242,Enterprise,New York,USA,186196,2021-12-18,0
+C0243,Company_243,Enterprise,Paris,USA,320014,2023-12-07,1
+C0244,Company_244,Startup,Houston,USA,454763,2020-12-04,1
+C0245,Company_245,Startup,Houston,Canada,69110,2021-10-20,1
+C0246,Company_246,Startup,Chicago,UK,189626,2022-08-19,1
+C0247,Company_247,Government,Chicago,UK,157008,2021-03-04,1
+C0248,Company_248,Enterprise,Houston,USA,384039,2022-06-17,1
+C0249,Company_249,Government,New York,USA,9426,2020-05-18,1
+C0250,Company_250,Startup,Los Angeles,USA,224911,2022-07-30,1
+C0251,Company_251,Enterprise,Berlin,UK,294750,2021-06-25,0
+C0252,Company_252,Government,Paris,USA,446048,2020-02-26,1
+C0253,Company_253,Government,Los Angeles,USA,33151,2023-06-09,1
+C0254,Company_254,Startup,Phoenix,UK,477519,2021-10-19,1
+C0255,Company_255,Enterprise,Berlin,USA,278452,2021-03-10,1
+C0256,Company_256,Startup,Berlin,USA,245853,2021-01-18,1
+C0257,Company_257,Enterprise,London,USA,460738,2021-07-13,1
+C0258,Company_258,Non-profit,New York,Canada,259595,2020-07-12,1
+C0259,Company_259,SMB,New York,UK,181743,2021-06-17,0
+C0260,Company_260,SMB,Berlin,USA,95306,2021-06-01,1
+C0261,Company_261,SMB,London,USA,230180,2021-12-16,1
+C0262,Company_262,Startup,Paris,Canada,374128,2022-01-20,1
+C0263,Company_263,Non-profit,Berlin,UK,7204,2020-07-03,1
+C0264,Company_264,Enterprise,Dallas,USA,97769,2020-10-18,1
+C0265,Company_265,Government,Chicago,France,92265,2023-09-20,1
+C0266,Company_266,Enterprise,Chicago,USA,298275,2022-01-01,1
+C0267,Company_267,Government,Los Angeles,UK,57428,2020-04-25,1
+C0268,Company_268,Enterprise,Phoenix,UK,38870,2022-04-04,1
+C0269,Company_269,Non-profit,Chicago,USA,108547,2022-12-08,1
+C0270,Company_270,Government,Philadelphia,Canada,240990,2021-11-15,1
+C0271,Company_271,Startup,Los Angeles,Germany,54067,2020-03-22,1
+C0272,Company_272,Enterprise,Chicago,UK,456801,2022-04-13,1
+C0273,Company_273,Enterprise,Phoenix,USA,243083,2020-11-28,1
+C0274,Company_274,Government,New York,USA,117217,2021-07-10,1
+C0275,Company_275,Startup,New York,USA,419823,2020-11-30,1
+C0276,Company_276,Startup,Paris,Germany,423184,2021-06-15,1
+C0277,Company_277,Non-profit,Berlin,USA,103934,2020-08-08,1
+C0278,Company_278,Startup,Dallas,UK,147980,2021-09-26,1
+C0279,Company_279,Startup,New York,Germany,424639,2020-11-18,1
+C0280,Company_280,Startup,London,USA,341851,2020-01-03,1
+C0281,Company_281,SMB,Chicago,UK,214329,2020-07-24,1
+C0282,Company_282,Non-profit,London,USA,262354,2020-02-09,1
+C0283,Company_283,Enterprise,Phoenix,Canada,66215,2020-02-28,1
+C0284,Company_284,Government,New York,USA,191907,2022-08-08,1
+C0285,Company_285,Enterprise,Dallas,USA,316573,2021-07-27,0
+C0286,Company_286,Non-profit,Phoenix,USA,349296,2021-10-05,1
+C0287,Company_287,Government,Philadelphia,USA,113048,2022-04-22,1
+C0288,Company_288,Non-profit,Philadelphia,Germany,174530,2023-02-19,1
+C0289,Company_289,Startup,London,Germany,182241,2021-09-10,1
+C0290,Company_290,Government,Berlin,UK,143731,2020-04-05,1
+C0291,Company_291,Startup,Los Angeles,USA,458830,2023-12-08,1
+C0292,Company_292,Enterprise,Berlin,USA,244977,2023-06-12,1
+C0293,Company_293,Enterprise,Paris,USA,344384,2022-06-16,1
+C0294,Company_294,Government,Berlin,UK,431009,2022-12-21,1
+C0295,Company_295,Government,Paris,France,118688,2023-07-03,1
+C0296,Company_296,Non-profit,Paris,USA,313617,2021-07-14,1
+C0297,Company_297,Non-profit,Dallas,USA,363906,2022-06-23,1
+C0298,Company_298,Startup,New York,UK,225460,2020-12-13,0
+C0299,Company_299,Government,Dallas,France,495834,2021-11-01,1
+C0300,Company_300,Enterprise,Paris,Germany,486546,2023-02-21,1
+C0301,Company_301,Non-profit,Phoenix,France,374100,2020-11-12,1
+C0302,Company_302,Non-profit,Philadelphia,USA,385596,2021-12-19,1
+C0303,Company_303,Enterprise,Paris,USA,191823,2022-12-07,1
+C0304,Company_304,Non-profit,Dallas,France,393455,2023-12-03,1
+C0305,Company_305,Startup,Phoenix,UK,214987,2023-03-05,1
+C0306,Company_306,Government,Dallas,USA,452470,2023-05-09,1
+C0307,Company_307,Enterprise,Berlin,Germany,274150,2020-09-06,1
+C0308,Company_308,Government,Chicago,France,254243,2020-11-09,1
+C0309,Company_309,Non-profit,London,UK,79218,2023-10-23,1
+C0310,Company_310,Non-profit,Los Angeles,UK,201416,2023-12-23,1
+C0311,Company_311,Enterprise,Dallas,USA,432056,2022-03-17,1
+C0312,Company_312,Startup,Los Angeles,UK,37430,2023-08-30,1
+C0313,Company_313,SMB,Houston,UK,28091,2023-10-10,1
+C0314,Company_314,Enterprise,Dallas,France,262125,2021-04-29,1
+C0315,Company_315,SMB,Chicago,France,431199,2023-05-19,1
+C0316,Company_316,SMB,Los Angeles,France,28989,2020-02-13,1
+C0317,Company_317,Startup,Paris,USA,80451,2021-07-24,1
+C0318,Company_318,SMB,Dallas,Germany,23990,2021-08-05,1
+C0319,Company_319,SMB,New York,Germany,357414,2023-01-20,0
+C0320,Company_320,Startup,London,UK,347504,2023-07-12,1
+C0321,Company_321,SMB,Chicago,Germany,255541,2022-06-13,1
+C0322,Company_322,SMB,Los Angeles,France,303225,2020-08-07,1
+C0323,Company_323,SMB,Chicago,USA,147105,2022-07-13,1
+C0324,Company_324,Enterprise,Phoenix,UK,375416,2021-02-04,1
+C0325,Company_325,Enterprise,London,USA,283385,2023-11-24,1
+C0326,Company_326,Enterprise,Paris,USA,129932,2021-12-27,1
+C0327,Company_327,Startup,Dallas,UK,273083,2022-09-17,1
+C0328,Company_328,Non-profit,Dallas,Germany,118000,2022-06-17,1
+C0329,Company_329,SMB,Dallas,USA,183634,2022-05-07,1
+C0330,Company_330,SMB,London,USA,40063,2022-03-14,1
+C0331,Company_331,Startup,New York,UK,498216,2021-05-04,1
+C0332,Company_332,SMB,Houston,USA,212793,2022-07-26,1
+C0333,Company_333,Enterprise,Philadelphia,USA,163117,2022-04-23,1
+C0334,Company_334,Non-profit,Berlin,USA,442985,2023-07-16,1
+C0335,Company_335,Government,Los Angeles,USA,314262,2020-09-23,1
+C0336,Company_336,SMB,New York,USA,89703,2020-02-23,1
+C0337,Company_337,Enterprise,Paris,USA,419841,2021-06-11,1
+C0338,Company_338,Government,Los Angeles,USA,240796,2021-09-07,1
+C0339,Company_339,Non-profit,Dallas,France,133557,2022-12-18,1
+C0340,Company_340,Government,Chicago,UK,294220,2022-11-29,1
+C0341,Company_341,Enterprise,Paris,Germany,258317,2023-06-14,1
+C0342,Company_342,Government,Los Angeles,USA,200877,2022-08-12,1
+C0343,Company_343,Startup,Dallas,USA,311749,2021-01-20,1
+C0344,Company_344,Government,Los Angeles,Germany,351709,2022-01-03,1
+C0345,Company_345,SMB,Chicago,USA,486725,2021-12-16,1
+C0346,Company_346,SMB,Dallas,USA,306265,2021-10-11,1
+C0347,Company_347,Startup,Houston,UK,463317,2020-10-26,1
+C0348,Company_348,Enterprise,New York,UK,298577,2021-01-29,1
+C0349,Company_349,SMB,Phoenix,USA,48309,2023-05-15,1
+C0350,Company_350,Non-profit,Berlin,USA,334612,2023-09-21,0
+C0351,Company_351,SMB,London,UK,442470,2021-08-15,1
+C0352,Company_352,SMB,Berlin,USA,334437,2021-05-28,1
+C0353,Company_353,Enterprise,Paris,UK,363402,2023-04-16,1
+C0354,Company_354,Government,Berlin,Germany,436069,2021-01-30,1
+C0355,Company_355,SMB,Dallas,Canada,305549,2021-01-05,1
+C0356,Company_356,Startup,Houston,USA,464868,2022-05-07,1
+C0357,Company_357,Government,Phoenix,France,48527,2022-03-01,1
+C0358,Company_358,Non-profit,New York,UK,344371,2021-10-19,1
+C0359,Company_359,Enterprise,New York,USA,398708,2023-09-03,1
+C0360,Company_360,Non-profit,Chicago,USA,229490,2022-01-05,1
+C0361,Company_361,Government,London,Germany,144883,2023-10-24,1
+C0362,Company_362,Government,Los Angeles,USA,98344,2021-01-18,1
+C0363,Company_363,Government,Houston,USA,160344,2020-03-02,0
+C0364,Company_364,Non-profit,Los Angeles,USA,492151,2021-05-19,1
+C0365,Company_365,Government,Phoenix,France,470226,2020-08-26,1
+C0366,Company_366,Non-profit,Berlin,Germany,228564,2020-07-13,1
+C0367,Company_367,Government,New York,Germany,52153,2021-11-08,0
+C0368,Company_368,Startup,Phoenix,USA,113042,2023-05-30,1
+C0369,Company_369,Government,Berlin,USA,59110,2020-03-01,1
+C0370,Company_370,Non-profit,New York,UK,150051,2023-02-26,1
+C0371,Company_371,SMB,Berlin,USA,246131,2022-09-16,1
+C0372,Company_372,Government,London,USA,244173,2021-11-15,1
+C0373,Company_373,SMB,Houston,UK,33328,2020-06-04,1
+C0374,Company_374,Startup,Paris,Canada,117911,2023-11-02,1
+C0375,Company_375,Enterprise,Phoenix,Germany,280011,2022-07-11,1
+C0376,Company_376,Startup,Phoenix,Germany,64234,2022-05-17,1
+C0377,Company_377,Government,Philadelphia,Canada,292995,2022-06-21,1
+C0378,Company_378,SMB,Dallas,USA,298423,2022-09-25,1
+C0379,Company_379,SMB,London,UK,253503,2022-09-01,1
+C0380,Company_380,Non-profit,London,Canada,232135,2023-05-15,1
+C0381,Company_381,SMB,Los Angeles,USA,78402,2021-01-22,1
+C0382,Company_382,Non-profit,Berlin,Germany,282593,2022-06-05,1
+C0383,Company_383,Enterprise,Dallas,UK,343365,2022-04-17,1
+C0384,Company_384,Government,Houston,UK,356224,2023-09-25,1
+C0385,Company_385,Non-profit,Houston,UK,10451,2020-12-05,1
+C0386,Company_386,Enterprise,London,Canada,92178,2020-07-22,1
+C0387,Company_387,SMB,Houston,Germany,439532,2020-06-09,1
+C0388,Company_388,SMB,Philadelphia,USA,461280,2021-01-26,1
+C0389,Company_389,Enterprise,Phoenix,France,330905,2022-02-07,1
+C0390,Company_390,SMB,Chicago,USA,241562,2021-07-28,1
+C0391,Company_391,Enterprise,Paris,USA,306014,2021-06-17,1
+C0392,Company_392,Non-profit,Los Angeles,USA,363710,2022-12-29,1
+C0393,Company_393,Non-profit,Berlin,USA,390893,2022-06-11,1
+C0394,Company_394,Enterprise,Paris,USA,128765,2021-02-08,1
+C0395,Company_395,Non-profit,Berlin,Canada,392025,2021-08-30,0
+C0396,Company_396,Non-profit,New York,Germany,429089,2022-04-07,1
+C0397,Company_397,Non-profit,Paris,UK,133389,2023-02-17,1
+C0398,Company_398,Startup,Chicago,USA,194699,2021-11-20,1
+C0399,Company_399,Government,London,Canada,202227,2022-06-20,1
+C0400,Company_400,SMB,Philadelphia,Canada,497402,2023-05-25,1
+C0401,Company_401,Startup,Phoenix,Germany,292516,2020-02-25,1
+C0402,Company_402,Non-profit,Phoenix,USA,270786,2020-12-31,1
+C0403,Company_403,Enterprise,Philadelphia,USA,265220,2021-03-30,1
+C0404,Company_404,Non-profit,Dallas,USA,426217,2020-04-13,1
+C0405,Company_405,Government,New York,USA,301208,2020-03-17,1
+C0406,Company_406,Non-profit,Berlin,USA,230898,2020-08-17,1
+C0407,Company_407,Enterprise,Chicago,Canada,281266,2023-07-05,1
+C0408,Company_408,Government,Houston,USA,423036,2023-07-11,1
+C0409,Company_409,Non-profit,Paris,USA,73431,2020-11-26,1
+C0410,Company_410,Government,New York,USA,60745,2023-04-20,1
+C0411,Company_411,SMB,Paris,USA,55081,2022-06-11,1
+C0412,Company_412,SMB,Chicago,USA,469118,2021-11-18,1
+C0413,Company_413,Non-profit,Los Angeles,USA,406927,2020-01-27,1
+C0414,Company_414,Government,Los Angeles,USA,221204,2023-07-23,1
+C0415,Company_415,Enterprise,New York,Germany,417009,2020-10-25,1
+C0416,Company_416,Non-profit,London,Canada,406415,2022-08-14,1
+C0417,Company_417,SMB,Chicago,USA,81253,2022-03-09,1
+C0418,Company_418,SMB,Chicago,USA,303335,2023-01-19,1
+C0419,Company_419,Non-profit,Philadelphia,France,277355,2021-04-24,1
+C0420,Company_420,Government,London,USA,116086,2021-07-26,1
+C0421,Company_421,SMB,Berlin,USA,461285,2021-04-02,1
+C0422,Company_422,Government,Berlin,France,487112,2020-12-30,1
+C0423,Company_423,SMB,Houston,USA,454962,2022-05-08,1
+C0424,Company_424,SMB,Phoenix,UK,419758,2020-12-16,1
+C0425,Company_425,Startup,Los Angeles,UK,429528,2023-11-24,1
+C0426,Company_426,SMB,Berlin,USA,443458,2020-09-09,1
+C0427,Company_427,Enterprise,London,USA,369115,2022-02-19,1
+C0428,Company_428,Non-profit,Chicago,Germany,98783,2022-03-13,1
+C0429,Company_429,Non-profit,Berlin,USA,130681,2022-10-08,1
+C0430,Company_430,Government,Chicago,USA,92893,2021-04-03,1
+C0431,Company_431,SMB,Berlin,Germany,453604,2022-07-05,1
+C0432,Company_432,Enterprise,Los Angeles,UK,163763,2021-05-13,1
+C0433,Company_433,Government,Paris,USA,82960,2022-08-07,1
+C0434,Company_434,Startup,Berlin,France,351532,2021-05-22,1
+C0435,Company_435,Government,London,USA,27601,2023-08-20,1
+C0436,Company_436,Government,Berlin,France,416236,2021-05-15,1
+C0437,Company_437,SMB,Phoenix,Germany,144227,2022-03-13,0
+C0438,Company_438,Startup,Los Angeles,UK,205191,2021-08-20,1
+C0439,Company_439,Government,London,USA,479267,2020-06-14,1
+C0440,Company_440,Enterprise,Philadelphia,Canada,172849,2023-12-09,1
+C0441,Company_441,Enterprise,London,USA,286854,2021-04-06,0
+C0442,Company_442,Non-profit,Phoenix,Germany,375858,2022-07-08,1
+C0443,Company_443,Startup,Paris,USA,160604,2020-04-23,1
+C0444,Company_444,Startup,Los Angeles,USA,133727,2023-12-27,1
+C0445,Company_445,Non-profit,Philadelphia,USA,416817,2022-09-18,1
+C0446,Company_446,Government,Phoenix,Canada,68227,2023-10-11,1
+C0447,Company_447,Startup,Phoenix,Canada,141039,2020-07-25,1
+C0448,Company_448,Enterprise,New York,USA,89289,2023-06-12,0
+C0449,Company_449,Enterprise,Los Angeles,USA,156094,2023-10-10,1
+C0450,Company_450,SMB,London,Germany,441679,2021-05-29,1
+C0451,Company_451,Startup,Chicago,USA,210743,2023-05-16,1
+C0452,Company_452,Government,Paris,USA,272866,2021-12-09,1
+C0453,Company_453,Non-profit,Chicago,UK,163485,2023-02-22,1
+C0454,Company_454,Non-profit,London,UK,490988,2020-05-17,1
+C0455,Company_455,Government,London,Canada,348194,2020-12-04,1
+C0456,Company_456,SMB,Los Angeles,USA,238820,2021-06-20,1
+C0457,Company_457,Non-profit,London,USA,241994,2020-03-08,1
+C0458,Company_458,Startup,New York,UK,484083,2021-01-17,1
+C0459,Company_459,SMB,Philadelphia,Germany,350740,2020-01-19,1
+C0460,Company_460,Startup,London,UK,333876,2021-11-13,1
+C0461,Company_461,Enterprise,Chicago,UK,410513,2020-03-14,0
+C0462,Company_462,SMB,London,USA,73323,2021-07-26,1
+C0463,Company_463,Non-profit,New York,France,290960,2022-07-27,0
+C0464,Company_464,SMB,Berlin,USA,45695,2023-07-23,1
+C0465,Company_465,SMB,Berlin,USA,417918,2022-12-07,1
+C0466,Company_466,SMB,Phoenix,UK,423458,2020-07-29,1
+C0467,Company_467,SMB,Paris,USA,60841,2022-05-04,1
+C0468,Company_468,Startup,Houston,USA,395642,2021-10-12,1
+C0469,Company_469,Enterprise,Philadelphia,France,203784,2022-09-20,1
+C0470,Company_470,Government,Dallas,USA,483879,2021-11-25,1
+C0471,Company_471,SMB,Phoenix,Germany,112096,2021-06-23,1
+C0472,Company_472,Non-profit,Paris,USA,97764,2023-04-29,1
+C0473,Company_473,SMB,Berlin,Germany,451790,2023-08-31,1
+C0474,Company_474,Non-profit,Chicago,USA,90744,2022-06-19,1
+C0475,Company_475,Startup,Dallas,USA,295626,2022-02-18,1
+C0476,Company_476,Non-profit,Paris,Canada,14171,2023-02-10,1
+C0477,Company_477,Government,Paris,Germany,105755,2020-06-18,1
+C0478,Company_478,Enterprise,Phoenix,USA,497148,2022-11-03,1
+C0479,Company_479,Non-profit,Dallas,USA,113125,2020-10-14,1
+C0480,Company_480,Non-profit,Los Angeles,France,397866,2020-07-07,1
+C0481,Company_481,Enterprise,Houston,UK,373226,2022-07-02,1
+C0482,Company_482,Government,Los Angeles,Germany,8696,2023-03-24,1
+C0483,Company_483,SMB,Dallas,Germany,131310,2021-11-24,1
+C0484,Company_484,Non-profit,Los Angeles,USA,418274,2022-06-06,1
+C0485,Company_485,Enterprise,New York,USA,156385,2021-04-15,1
+C0486,Company_486,Startup,Berlin,UK,286293,2023-01-03,1
+C0487,Company_487,Enterprise,New York,USA,397208,2020-10-03,1
+C0488,Company_488,Startup,London,USA,320665,2022-07-28,1
+C0489,Company_489,Government,Los Angeles,Canada,50740,2023-09-28,1
+C0490,Company_490,SMB,London,UK,111611,2023-12-19,1
+C0491,Company_491,Enterprise,Chicago,Germany,403172,2021-07-24,1
+C0492,Company_492,Non-profit,Philadelphia,UK,473947,2022-05-06,1
+C0493,Company_493,Government,Chicago,UK,480828,2022-09-27,0
+C0494,Company_494,Enterprise,Dallas,USA,253922,2023-04-20,1
+C0495,Company_495,Non-profit,Paris,USA,333785,2021-04-02,1
+C0496,Company_496,Enterprise,Berlin,USA,68811,2022-07-06,1
+C0497,Company_497,Startup,Los Angeles,USA,450376,2022-04-12,1
+C0498,Company_498,Enterprise,Phoenix,Germany,187385,2022-12-23,1
+C0499,Company_499,Enterprise,Philadelphia,USA,68232,2022-04-18,1
+C0500,Company_500,Enterprise,Houston,USA,282561,2023-07-07,1
+C0501,Company_501,Government,Houston,USA,160801,2020-07-11,1
+C0502,Company_502,Enterprise,Houston,USA,117492,2021-09-07,1
+C0503,Company_503,Non-profit,Los Angeles,USA,35099,2021-02-09,0
+C0504,Company_504,Startup,Houston,USA,234206,2022-07-31,1
+C0505,Company_505,Startup,New York,USA,428177,2021-12-21,1
+C0506,Company_506,Enterprise,Philadelphia,USA,410818,2020-04-02,0
+C0507,Company_507,Government,New York,USA,123474,2021-03-05,1
+C0508,Company_508,Government,Paris,Germany,276400,2021-10-15,1
+C0509,Company_509,Non-profit,Philadelphia,USA,484336,2023-12-28,1
+C0510,Company_510,Enterprise,New York,USA,248588,2023-11-28,1
+C0511,Company_511,Startup,Philadelphia,UK,39681,2021-03-09,1
+C0512,Company_512,Government,Paris,USA,96328,2023-02-09,1
+C0513,Company_513,Enterprise,London,France,223512,2021-01-09,0
+C0514,Company_514,Government,Los Angeles,UK,463005,2022-12-18,1
+C0515,Company_515,Government,Los Angeles,USA,310505,2022-12-02,1
+C0516,Company_516,Startup,Houston,UK,462719,2020-07-25,1
+C0517,Company_517,SMB,Chicago,USA,39540,2022-02-18,0
+C0518,Company_518,Non-profit,Houston,UK,162608,2023-08-12,1
+C0519,Company_519,Non-profit,Dallas,USA,89700,2023-02-15,0
+C0520,Company_520,Startup,New York,France,461259,2021-06-15,1
+C0521,Company_521,Government,Philadelphia,USA,345676,2023-05-30,1
+C0522,Company_522,Enterprise,Chicago,UK,192647,2020-06-14,1
+C0523,Company_523,Government,Paris,UK,394770,2021-10-04,1
+C0524,Company_524,Startup,Dallas,USA,401087,2023-03-25,1
+C0525,Company_525,Non-profit,Paris,USA,51002,2023-04-22,1
+C0526,Company_526,Government,Los Angeles,Germany,54812,2020-03-30,1
+C0527,Company_527,Non-profit,Los Angeles,France,420842,2023-01-22,1
+C0528,Company_528,Enterprise,Houston,USA,196051,2020-01-13,1
+C0529,Company_529,Non-profit,New York,Germany,474273,2022-08-30,1
+C0530,Company_530,Non-profit,Chicago,Canada,262906,2022-03-15,1
+C0531,Company_531,SMB,Berlin,France,113946,2022-08-02,1
+C0532,Company_532,SMB,Dallas,USA,71668,2022-01-11,1
+C0533,Company_533,SMB,Dallas,Germany,104003,2022-05-25,1
+C0534,Company_534,Non-profit,Houston,USA,216142,2023-03-19,1
+C0535,Company_535,Startup,Los Angeles,Canada,225462,2021-10-21,1
+C0536,Company_536,Non-profit,Houston,USA,310142,2022-10-28,1
+C0537,Company_537,Startup,Philadelphia,USA,199886,2022-11-18,1
+C0538,Company_538,Startup,Chicago,Germany,109601,2020-10-22,1
+C0539,Company_539,SMB,New York,USA,443823,2022-09-12,1
+C0540,Company_540,Government,London,Canada,274956,2022-07-14,1
+C0541,Company_541,Enterprise,Phoenix,Canada,66844,2021-10-01,1
+C0542,Company_542,SMB,Phoenix,UK,206165,2020-12-05,1
+C0543,Company_543,SMB,Houston,USA,400395,2021-09-19,1
+C0544,Company_544,Government,Philadelphia,UK,179870,2021-03-14,1
+C0545,Company_545,Enterprise,Chicago,USA,79601,2023-03-13,0
+C0546,Company_546,Non-profit,Berlin,USA,406491,2022-07-30,1
+C0547,Company_547,Non-profit,Phoenix,France,448790,2022-04-09,1
+C0548,Company_548,SMB,Chicago,USA,315001,2021-06-02,1
+C0549,Company_549,Enterprise,New York,USA,392699,2022-09-02,1
+C0550,Company_550,SMB,Paris,Canada,499700,2022-12-04,1
+C0551,Company_551,Startup,Philadelphia,USA,287844,2022-08-12,1
+C0552,Company_552,SMB,Los Angeles,USA,262927,2023-06-16,1
+C0553,Company_553,SMB,Chicago,Canada,437680,2022-08-09,1
+C0554,Company_554,Non-profit,New York,USA,178423,2022-08-01,1
+C0555,Company_555,Non-profit,Berlin,Germany,98330,2020-06-03,1
+C0556,Company_556,Non-profit,London,Canada,230391,2023-04-19,1
+C0557,Company_557,Startup,Los Angeles,Canada,218606,2023-05-23,1
+C0558,Company_558,Non-profit,London,UK,412085,2020-03-28,1
+C0559,Company_559,Enterprise,Berlin,USA,196387,2023-07-03,1
+C0560,Company_560,Government,New York,USA,246133,2023-01-01,1
+C0561,Company_561,Enterprise,Phoenix,France,491904,2022-07-19,1
+C0562,Company_562,Enterprise,London,France,419170,2020-06-27,1
+C0563,Company_563,Non-profit,Los Angeles,UK,167627,2020-07-30,1
+C0564,Company_564,Government,Houston,USA,330497,2023-06-11,1
+C0565,Company_565,Government,Dallas,USA,480406,2021-04-09,1
+C0566,Company_566,Government,Chicago,USA,443242,2023-05-31,1
+C0567,Company_567,Startup,Phoenix,Germany,367916,2021-09-22,1
+C0568,Company_568,Non-profit,London,USA,183048,2022-04-04,1
+C0569,Company_569,Government,Paris,Canada,478794,2023-07-11,1
+C0570,Company_570,Startup,Chicago,Germany,358646,2023-05-15,1
+C0571,Company_571,SMB,Houston,USA,381087,2021-08-29,1
+C0572,Company_572,SMB,Berlin,UK,376994,2022-06-03,1
+C0573,Company_573,Startup,Dallas,USA,50095,2020-12-31,1
+C0574,Company_574,Startup,New York,UK,150342,2020-10-02,1
+C0575,Company_575,Non-profit,Houston,Germany,166980,2021-01-14,1
+C0576,Company_576,Non-profit,Houston,France,282667,2023-08-25,1
+C0577,Company_577,SMB,Berlin,France,67433,2023-07-15,1
+C0578,Company_578,Government,Philadelphia,USA,445284,2022-08-02,0
+C0579,Company_579,SMB,Berlin,USA,24991,2022-12-23,1
+C0580,Company_580,Government,Philadelphia,Germany,277919,2022-03-20,1
+C0581,Company_581,Government,Philadelphia,USA,476017,2023-10-05,1
+C0582,Company_582,Non-profit,Phoenix,USA,352139,2022-07-13,1
+C0583,Company_583,Enterprise,Phoenix,USA,459466,2021-05-08,1
+C0584,Company_584,Enterprise,Los Angeles,UK,152745,2023-01-26,1
+C0585,Company_585,Startup,London,USA,127808,2022-12-30,1
+C0586,Company_586,Non-profit,London,UK,163128,2020-12-29,0
+C0587,Company_587,Government,New York,Canada,142686,2021-07-23,1
+C0588,Company_588,Enterprise,London,USA,499772,2022-02-01,1
+C0589,Company_589,Government,Phoenix,USA,12415,2020-10-02,1
+C0590,Company_590,Enterprise,Los Angeles,USA,486907,2020-02-19,1
+C0591,Company_591,Enterprise,Los Angeles,France,251038,2023-10-13,1
+C0592,Company_592,Enterprise,Philadelphia,USA,442100,2021-12-28,1
+C0593,Company_593,Non-profit,Berlin,USA,415180,2022-06-24,1
+C0594,Company_594,SMB,New York,USA,435942,2022-07-16,1
+C0595,Company_595,Government,Philadelphia,Germany,259205,2021-07-17,1
+C0596,Company_596,Non-profit,Berlin,USA,304188,2022-02-21,0
+C0597,Company_597,Non-profit,London,Germany,193221,2021-04-29,1
+C0598,Company_598,Non-profit,Philadelphia,Canada,173616,2023-01-12,0
+C0599,Company_599,Non-profit,Chicago,USA,54976,2021-08-06,1
+C0600,Company_600,Non-profit,London,France,430468,2023-08-12,1
+C0601,Company_601,Startup,Berlin,USA,270976,2020-08-23,1
+C0602,Company_602,Government,New York,France,226883,2020-02-25,1
+C0603,Company_603,Non-profit,Berlin,UK,216509,2020-12-25,1
+C0604,Company_604,Government,Philadelphia,France,301292,2020-04-19,1
+C0605,Company_605,Startup,Philadelphia,USA,459456,2020-07-10,1
+C0606,Company_606,Startup,Houston,USA,244241,2022-06-22,1
+C0607,Company_607,Government,New York,USA,224526,2023-01-21,1
+C0608,Company_608,Enterprise,Paris,USA,379374,2022-05-11,1
+C0609,Company_609,SMB,London,USA,352220,2021-07-21,1
+C0610,Company_610,Enterprise,Los Angeles,USA,475332,2022-12-19,1
+C0611,Company_611,Enterprise,New York,USA,451675,2021-10-11,1
+C0612,Company_612,Enterprise,Los Angeles,USA,305546,2020-02-08,1
+C0613,Company_613,Non-profit,New York,France,193799,2022-12-08,0
+C0614,Company_614,Startup,New York,USA,43578,2023-12-14,1
+C0615,Company_615,Enterprise,Berlin,USA,95453,2021-09-28,1
+C0616,Company_616,Startup,New York,USA,420534,2022-11-02,1
+C0617,Company_617,Government,Houston,USA,342859,2020-02-05,1
+C0618,Company_618,SMB,Paris,Canada,213859,2020-04-10,1
+C0619,Company_619,Government,Philadelphia,USA,116435,2023-01-14,1
+C0620,Company_620,Government,Dallas,Germany,221101,2023-05-31,1
+C0621,Company_621,Non-profit,Los Angeles,Canada,156538,2023-09-23,1
+C0622,Company_622,SMB,Philadelphia,France,362886,2020-06-14,1
+C0623,Company_623,Government,Dallas,UK,50475,2021-01-17,1
+C0624,Company_624,Government,Paris,France,327286,2023-10-31,1
+C0625,Company_625,SMB,Paris,Canada,221232,2022-02-28,0
+C0626,Company_626,SMB,Los Angeles,UK,162636,2020-01-31,1
+C0627,Company_627,Government,Los Angeles,UK,158484,2023-10-30,1
+C0628,Company_628,SMB,Paris,UK,98526,2020-01-11,1
+C0629,Company_629,Government,Dallas,UK,56001,2023-08-18,1
+C0630,Company_630,Government,New York,UK,324793,2020-04-05,0
+C0631,Company_631,Non-profit,London,USA,197029,2023-04-28,1
+C0632,Company_632,Enterprise,Chicago,USA,433733,2021-03-28,1
+C0633,Company_633,Government,Philadelphia,USA,149228,2020-07-10,1
+C0634,Company_634,Startup,Berlin,USA,421280,2021-04-30,1
+C0635,Company_635,Enterprise,Philadelphia,USA,30711,2023-07-13,1
+C0636,Company_636,Enterprise,Berlin,USA,35106,2023-12-18,1
+C0637,Company_637,Enterprise,Dallas,UK,332602,2023-02-25,0
+C0638,Company_638,Non-profit,Berlin,USA,414805,2020-08-25,1
+C0639,Company_639,Government,Los Angeles,France,487488,2023-10-10,1
+C0640,Company_640,Non-profit,London,USA,397573,2023-02-09,1
+C0641,Company_641,Government,London,USA,222583,2023-09-28,1
+C0642,Company_642,Non-profit,Los Angeles,Germany,368898,2023-03-14,1
+C0643,Company_643,Non-profit,Houston,UK,143286,2022-12-24,1
+C0644,Company_644,Startup,Dallas,USA,232189,2023-06-24,1
+C0645,Company_645,Non-profit,Houston,France,483947,2022-01-04,1
+C0646,Company_646,SMB,Houston,France,131479,2022-09-17,1
+C0647,Company_647,Startup,Philadelphia,USA,425343,2022-04-04,1
+C0648,Company_648,Non-profit,Paris,USA,141213,2020-04-15,1
+C0649,Company_649,Enterprise,Philadelphia,Canada,33884,2020-06-29,1
+C0650,Company_650,SMB,Paris,UK,488637,2020-07-02,1
+C0651,Company_651,SMB,Chicago,UK,269852,2020-08-13,1
+C0652,Company_652,SMB,Berlin,France,285519,2022-02-15,1
+C0653,Company_653,Startup,Paris,USA,20088,2022-02-28,1
+C0654,Company_654,Non-profit,Los Angeles,USA,324759,2023-01-17,0
+C0655,Company_655,Non-profit,Philadelphia,USA,377282,2021-11-18,1
+C0656,Company_656,Enterprise,Dallas,Germany,181118,2021-06-13,1
+C0657,Company_657,Enterprise,Berlin,UK,277158,2023-10-26,1
+C0658,Company_658,SMB,Chicago,UK,200497,2022-08-29,1
+C0659,Company_659,Enterprise,Paris,USA,401489,2022-07-24,1
+C0660,Company_660,Startup,Chicago,USA,183207,2023-11-23,0
+C0661,Company_661,Non-profit,Dallas,USA,369986,2020-04-15,1
+C0662,Company_662,SMB,Houston,Germany,429097,2023-07-18,1
+C0663,Company_663,Enterprise,London,UK,495238,2022-04-10,0
+C0664,Company_664,Startup,Dallas,USA,83077,2021-11-09,1
+C0665,Company_665,Startup,Phoenix,France,144784,2022-04-28,1
+C0666,Company_666,Enterprise,Dallas,USA,210776,2022-11-21,1
+C0667,Company_667,Non-profit,Chicago,Canada,320018,2021-01-27,1
+C0668,Company_668,Enterprise,Los Angeles,USA,74087,2020-02-09,1
+C0669,Company_669,SMB,Philadelphia,UK,279441,2021-10-21,1
+C0670,Company_670,Enterprise,Los Angeles,USA,245341,2023-05-26,1
+C0671,Company_671,Startup,Chicago,Canada,294272,2022-09-07,1
+C0672,Company_672,Enterprise,Philadelphia,USA,73368,2023-01-10,1
+C0673,Company_673,Non-profit,Phoenix,USA,492235,2022-04-24,1
+C0674,Company_674,Government,London,USA,485815,2020-07-19,1
+C0675,Company_675,Enterprise,Berlin,USA,224571,2021-03-22,1
+C0676,Company_676,Non-profit,Chicago,USA,346102,2023-12-22,1
+C0677,Company_677,Non-profit,Paris,Canada,300064,2022-11-27,1
+C0678,Company_678,Startup,Chicago,USA,256514,2023-05-19,1
+C0679,Company_679,Non-profit,Chicago,Germany,409372,2021-03-19,1
+C0680,Company_680,Non-profit,Philadelphia,UK,147180,2023-09-12,1
+C0681,Company_681,Non-profit,New York,UK,430061,2022-01-30,1
+C0682,Company_682,Non-profit,Dallas,USA,401016,2020-08-14,1
+C0683,Company_683,SMB,New York,USA,264904,2020-02-17,1
+C0684,Company_684,SMB,Phoenix,Germany,440928,2022-11-07,1
+C0685,Company_685,Startup,Paris,Canada,400826,2022-06-30,1
+C0686,Company_686,Enterprise,London,USA,82603,2020-07-05,1
+C0687,Company_687,Non-profit,Houston,USA,38872,2020-12-10,1
+C0688,Company_688,Enterprise,Phoenix,USA,277872,2020-08-11,1
+C0689,Company_689,Enterprise,Houston,Canada,362246,2022-04-09,1
+C0690,Company_690,Startup,Houston,USA,493535,2021-05-02,1
+C0691,Company_691,Non-profit,London,USA,389193,2022-05-26,1
+C0692,Company_692,Non-profit,Los Angeles,France,287727,2022-04-28,1
+C0693,Company_693,Government,New York,USA,90774,2023-06-06,1
+C0694,Company_694,Enterprise,Chicago,USA,405479,2023-11-14,1
+C0695,Company_695,Enterprise,Berlin,UK,393518,2022-09-05,1
+C0696,Company_696,SMB,Houston,Canada,203522,2022-10-13,1
+C0697,Company_697,Government,Paris,USA,225357,2020-07-06,1
+C0698,Company_698,SMB,Phoenix,USA,417672,2020-09-26,1
+C0699,Company_699,SMB,Los Angeles,USA,358262,2020-11-05,1
+C0700,Company_700,SMB,Houston,USA,70942,2023-03-01,1
+C0701,Company_701,Startup,Los Angeles,UK,18689,2022-12-31,0
+C0702,Company_702,Startup,Los Angeles,USA,431150,2022-04-24,1
+C0703,Company_703,SMB,Houston,USA,38276,2023-04-25,1
+C0704,Company_704,Government,Philadelphia,USA,106968,2021-04-30,1
+C0705,Company_705,Enterprise,Dallas,UK,418089,2023-04-29,1
+C0706,Company_706,Government,Paris,UK,280194,2023-12-16,1
+C0707,Company_707,Non-profit,Chicago,France,71216,2020-04-29,1
+C0708,Company_708,Startup,Chicago,USA,220516,2020-08-07,1
+C0709,Company_709,Enterprise,Paris,France,351184,2020-02-22,1
+C0710,Company_710,Enterprise,Philadelphia,France,26644,2023-12-06,1
+C0711,Company_711,Non-profit,Chicago,USA,67021,2023-06-14,1
+C0712,Company_712,Non-profit,Los Angeles,USA,173197,2022-01-27,1
+C0713,Company_713,SMB,London,USA,465115,2022-01-07,1
+C0714,Company_714,Startup,Phoenix,USA,47291,2021-12-20,1
+C0715,Company_715,Startup,New York,USA,433276,2021-02-09,1
+C0716,Company_716,Government,Chicago,USA,399754,2021-08-30,1
+C0717,Company_717,SMB,Paris,USA,434392,2022-10-17,1
+C0718,Company_718,SMB,London,France,308664,2021-02-25,1
+C0719,Company_719,SMB,Houston,USA,30675,2021-12-12,1
+C0720,Company_720,SMB,Dallas,France,154359,2020-09-03,1
+C0721,Company_721,Startup,Paris,UK,267318,2020-03-12,1
+C0722,Company_722,Startup,Los Angeles,France,97268,2020-07-03,1
+C0723,Company_723,SMB,Dallas,UK,302142,2020-01-06,1
+C0724,Company_724,Government,Phoenix,USA,189384,2023-05-14,1
+C0725,Company_725,Enterprise,Phoenix,UK,410328,2022-06-24,1
+C0726,Company_726,Enterprise,Philadelphia,USA,110410,2021-01-21,1
+C0727,Company_727,Government,Berlin,USA,342369,2021-11-29,1
+C0728,Company_728,SMB,Philadelphia,Canada,311958,2023-01-04,1
+C0729,Company_729,Startup,London,USA,352235,2023-04-15,1
+C0730,Company_730,Enterprise,Dallas,USA,317863,2022-04-06,1
+C0731,Company_731,Non-profit,Berlin,Germany,134887,2020-12-14,1
+C0732,Company_732,Non-profit,Houston,France,301063,2023-07-02,1
+C0733,Company_733,Government,Los Angeles,UK,340299,2020-11-03,1
+C0734,Company_734,SMB,Dallas,USA,338713,2023-09-30,1
+C0735,Company_735,Enterprise,Philadelphia,UK,308472,2023-02-24,1
+C0736,Company_736,SMB,New York,USA,206554,2020-10-13,1
+C0737,Company_737,Enterprise,Berlin,Germany,291762,2022-02-04,1
+C0738,Company_738,Government,Berlin,Canada,39675,2021-12-25,1
+C0739,Company_739,Government,Los Angeles,Germany,286063,2022-01-31,1
+C0740,Company_740,Non-profit,Chicago,France,271317,2021-01-17,1
+C0741,Company_741,SMB,Phoenix,USA,376513,2023-11-30,1
+C0742,Company_742,Non-profit,Phoenix,Germany,293544,2021-01-22,0
+C0743,Company_743,SMB,New York,France,186517,2021-06-08,1
+C0744,Company_744,Non-profit,London,USA,75305,2021-09-30,1
+C0745,Company_745,Startup,London,France,173636,2022-07-26,1
+C0746,Company_746,Startup,Houston,USA,444030,2020-10-02,1
+C0747,Company_747,Startup,Dallas,UK,477963,2021-05-14,1
+C0748,Company_748,Startup,Paris,France,93791,2021-12-17,1
+C0749,Company_749,Enterprise,Chicago,UK,164034,2020-12-02,1
+C0750,Company_750,Startup,Philadelphia,USA,483108,2022-07-20,0
+C0751,Company_751,Government,Paris,UK,484058,2021-04-25,0
+C0752,Company_752,Government,Paris,UK,75533,2022-06-29,1
+C0753,Company_753,Enterprise,Berlin,Canada,192256,2023-07-20,1
+C0754,Company_754,Startup,New York,USA,481128,2022-12-17,1
+C0755,Company_755,Startup,Phoenix,USA,370735,2023-09-13,1
+C0756,Company_756,Startup,Houston,Germany,146650,2020-04-18,1
+C0757,Company_757,Non-profit,London,USA,136060,2023-07-26,1
+C0758,Company_758,SMB,New York,UK,154696,2020-11-23,1
+C0759,Company_759,Non-profit,Berlin,UK,306338,2020-11-10,1
+C0760,Company_760,SMB,Philadelphia,France,377047,2023-02-08,1
+C0761,Company_761,Startup,Houston,UK,398605,2021-11-29,1
+C0762,Company_762,Startup,Berlin,UK,366447,2022-02-19,1
+C0763,Company_763,Non-profit,Phoenix,USA,247188,2023-06-06,1
+C0764,Company_764,Non-profit,Phoenix,USA,381047,2020-06-04,1
+C0765,Company_765,SMB,Phoenix,USA,334535,2023-07-19,1
+C0766,Company_766,Government,New York,USA,242501,2022-06-05,1
+C0767,Company_767,SMB,New York,UK,412010,2022-10-22,1
+C0768,Company_768,Non-profit,London,Germany,325146,2022-01-27,1
+C0769,Company_769,Non-profit,London,UK,302675,2021-12-22,1
+C0770,Company_770,Enterprise,Philadelphia,France,188887,2022-07-01,0
+C0771,Company_771,Non-profit,Houston,Canada,9986,2023-08-02,1
+C0772,Company_772,Enterprise,Los Angeles,France,299442,2022-05-20,0
+C0773,Company_773,Government,Los Angeles,UK,268625,2020-01-13,1
+C0774,Company_774,SMB,Berlin,UK,323552,2021-08-30,1
+C0775,Company_775,SMB,Phoenix,USA,205339,2021-05-12,1
+C0776,Company_776,Enterprise,Houston,USA,126950,2020-08-25,1
+C0777,Company_777,SMB,Paris,USA,415051,2023-01-22,0
+C0778,Company_778,Non-profit,New York,Canada,130355,2023-09-23,1
+C0779,Company_779,Startup,Dallas,France,32798,2022-02-19,1
+C0780,Company_780,Enterprise,Chicago,USA,96649,2023-04-09,1
+C0781,Company_781,SMB,Philadelphia,USA,332031,2021-08-28,1
+C0782,Company_782,Enterprise,Phoenix,France,24477,2021-10-22,1
+C0783,Company_783,Enterprise,Phoenix,USA,415482,2022-04-28,1
+C0784,Company_784,Startup,Phoenix,USA,222400,2022-07-24,1
+C0785,Company_785,Non-profit,New York,France,222060,2021-09-19,1
+C0786,Company_786,Enterprise,New York,USA,394959,2020-05-22,1
+C0787,Company_787,SMB,Chicago,USA,441742,2023-05-09,1
+C0788,Company_788,Government,Paris,UK,394570,2023-04-18,1
+C0789,Company_789,Enterprise,Houston,France,410105,2021-12-14,1
+C0790,Company_790,Enterprise,Phoenix,UK,291479,2023-10-19,1
+C0791,Company_791,Startup,Los Angeles,USA,409470,2021-04-23,1
+C0792,Company_792,Non-profit,London,USA,353754,2021-07-18,1
+C0793,Company_793,Government,Los Angeles,USA,278586,2021-04-15,1
+C0794,Company_794,SMB,Berlin,UK,313433,2021-01-18,1
+C0795,Company_795,Government,Los Angeles,Germany,320891,2022-07-14,1
+C0796,Company_796,SMB,Berlin,USA,304471,2021-02-20,1
+C0797,Company_797,Non-profit,Dallas,France,414415,2020-11-03,1
+C0798,Company_798,SMB,London,USA,339971,2021-10-10,1
+C0799,Company_799,Startup,Los Angeles,USA,111464,2023-10-22,1
+C0800,Company_800,Startup,Dallas,USA,136184,2022-10-21,0
+C0801,Company_801,Startup,Philadelphia,USA,92051,2022-12-03,1
+C0802,Company_802,Startup,Houston,UK,155653,2022-01-08,1
+C0803,Company_803,Government,Dallas,UK,250300,2023-01-26,1
+C0804,Company_804,Non-profit,Houston,USA,64722,2023-07-12,1
+C0805,Company_805,SMB,Los Angeles,UK,97036,2020-05-19,1
+C0806,Company_806,SMB,Paris,USA,233634,2023-06-14,1
+C0807,Company_807,Startup,Dallas,Germany,152595,2022-08-31,1
+C0808,Company_808,Startup,London,Canada,334104,2022-10-13,1
+C0809,Company_809,Enterprise,Los Angeles,USA,253709,2022-08-10,1
+C0810,Company_810,Non-profit,Phoenix,UK,286696,2022-06-22,1
+C0811,Company_811,Government,New York,USA,146880,2020-03-12,1
+C0812,Company_812,SMB,Dallas,USA,240419,2023-04-28,1
+C0813,Company_813,Enterprise,London,USA,470741,2023-07-15,1
+C0814,Company_814,Enterprise,Philadelphia,Germany,159692,2023-09-06,1
+C0815,Company_815,SMB,Phoenix,UK,268031,2020-04-16,1
+C0816,Company_816,Government,Philadelphia,USA,298946,2023-06-09,0
+C0817,Company_817,Enterprise,Los Angeles,France,90024,2022-12-01,1
+C0818,Company_818,Enterprise,New York,UK,493765,2022-06-01,1
+C0819,Company_819,Non-profit,Dallas,France,250809,2020-05-18,1
+C0820,Company_820,Government,Dallas,UK,123639,2021-09-06,1
+C0821,Company_821,Enterprise,Paris,UK,385392,2022-05-12,1
+C0822,Company_822,Government,Paris,USA,86938,2020-09-29,1
+C0823,Company_823,SMB,Los Angeles,USA,222813,2021-02-19,1
+C0824,Company_824,Startup,Los Angeles,Canada,257100,2021-05-20,1
+C0825,Company_825,Enterprise,New York,USA,389890,2022-01-02,1
+C0826,Company_826,Non-profit,Paris,Canada,293193,2021-02-27,1
+C0827,Company_827,SMB,London,UK,344933,2023-12-01,0
+C0828,Company_828,Government,London,USA,89526,2021-01-24,1
+C0829,Company_829,SMB,New York,USA,406062,2020-12-07,1
+C0830,Company_830,Enterprise,London,USA,488779,2022-08-03,1
+C0831,Company_831,Government,Berlin,Canada,51220,2021-09-05,1
+C0832,Company_832,Startup,Houston,USA,313307,2021-05-07,0
+C0833,Company_833,SMB,New York,USA,401981,2020-07-10,1
+C0834,Company_834,Enterprise,New York,USA,384270,2021-05-13,1
+C0835,Company_835,Non-profit,Chicago,USA,348630,2022-04-01,1
+C0836,Company_836,Government,Phoenix,USA,443486,2023-06-10,1
+C0837,Company_837,SMB,Phoenix,USA,80277,2020-08-14,1
+C0838,Company_838,SMB,Berlin,France,486494,2023-10-26,1
+C0839,Company_839,Startup,Paris,USA,488455,2020-05-18,1
+C0840,Company_840,Startup,Los Angeles,USA,371389,2022-05-05,1
+C0841,Company_841,Non-profit,Los Angeles,USA,127332,2022-03-27,1
+C0842,Company_842,Non-profit,Philadelphia,USA,239231,2023-03-18,1
+C0843,Company_843,Enterprise,Berlin,Canada,27931,2023-02-12,1
+C0844,Company_844,Enterprise,New York,UK,94116,2022-12-22,1
+C0845,Company_845,Non-profit,Berlin,USA,256671,2020-04-13,1
+C0846,Company_846,Non-profit,Berlin,UK,322777,2022-05-20,1
+C0847,Company_847,Government,Berlin,USA,478918,2021-10-29,1
+C0848,Company_848,Startup,Phoenix,USA,56913,2020-09-29,1
+C0849,Company_849,Enterprise,Berlin,Canada,255216,2022-10-26,1
+C0850,Company_850,Startup,Houston,Germany,99776,2023-03-16,1
+C0851,Company_851,Startup,Los Angeles,Canada,30991,2020-07-02,1
+C0852,Company_852,Non-profit,Philadelphia,USA,190917,2022-11-17,1
+C0853,Company_853,Government,Houston,UK,109092,2023-02-16,1
+C0854,Company_854,SMB,Philadelphia,USA,234577,2020-10-19,1
+C0855,Company_855,Government,Chicago,USA,191384,2023-10-26,1
+C0856,Company_856,Government,Philadelphia,France,408777,2023-06-21,1
+C0857,Company_857,Startup,Los Angeles,USA,415117,2023-05-26,1
+C0858,Company_858,Government,Los Angeles,France,242113,2020-06-25,1
+C0859,Company_859,Enterprise,Berlin,Germany,100556,2023-08-15,1
+C0860,Company_860,Startup,Dallas,USA,330019,2020-02-27,1
+C0861,Company_861,Enterprise,Chicago,UK,161989,2023-07-16,1
+C0862,Company_862,SMB,New York,UK,329264,2020-11-03,1
+C0863,Company_863,Startup,London,USA,400204,2023-08-04,1
+C0864,Company_864,SMB,Philadelphia,France,377185,2022-09-03,1
+C0865,Company_865,Startup,Dallas,UK,133467,2023-02-02,1
+C0866,Company_866,Non-profit,Berlin,USA,412472,2023-06-05,1
+C0867,Company_867,Government,Phoenix,UK,385634,2023-06-24,1
+C0868,Company_868,Non-profit,New York,Canada,223800,2021-11-30,1
+C0869,Company_869,SMB,Paris,USA,131155,2020-03-23,0
+C0870,Company_870,Government,Dallas,France,295374,2023-04-24,1
+C0871,Company_871,Startup,Phoenix,USA,64778,2020-09-08,1
+C0872,Company_872,Government,Chicago,Germany,50833,2023-10-10,1
+C0873,Company_873,Enterprise,Berlin,Germany,289769,2022-03-06,1
+C0874,Company_874,Government,New York,USA,37088,2022-06-15,0
+C0875,Company_875,Enterprise,New York,USA,215722,2020-07-28,1
+C0876,Company_876,Government,New York,Germany,439383,2022-03-26,1
+C0877,Company_877,Enterprise,Chicago,USA,371081,2021-08-31,1
+C0878,Company_878,SMB,Philadelphia,Germany,469507,2021-03-22,1
+C0879,Company_879,Non-profit,Paris,USA,201375,2021-04-04,1
+C0880,Company_880,Startup,Chicago,France,81361,2022-08-25,1
+C0881,Company_881,Government,London,Germany,355373,2021-04-16,0
+C0882,Company_882,Non-profit,Paris,Canada,140189,2021-01-04,1
+C0883,Company_883,Startup,Los Angeles,USA,95265,2022-06-18,1
+C0884,Company_884,Startup,Berlin,UK,102718,2022-07-11,1
+C0885,Company_885,Enterprise,Chicago,UK,327854,2020-05-16,1
+C0886,Company_886,SMB,Phoenix,USA,492642,2021-01-01,1
+C0887,Company_887,SMB,Paris,USA,99876,2022-06-30,1
+C0888,Company_888,Non-profit,London,USA,465270,2020-07-02,1
+C0889,Company_889,SMB,Los Angeles,Germany,35949,2023-08-03,1
+C0890,Company_890,Government,Philadelphia,UK,420763,2021-04-16,1
+C0891,Company_891,SMB,Phoenix,USA,217954,2023-10-30,0
+C0892,Company_892,Non-profit,Paris,UK,335280,2021-10-15,1
+C0893,Company_893,SMB,Berlin,USA,116541,2022-01-18,1
+C0894,Company_894,Government,Phoenix,USA,200691,2021-06-20,1
+C0895,Company_895,Enterprise,Los Angeles,Canada,66842,2022-03-12,1
+C0896,Company_896,Non-profit,Phoenix,Canada,493019,2023-06-27,1
+C0897,Company_897,Enterprise,Houston,UK,237930,2022-07-08,1
+C0898,Company_898,Enterprise,Dallas,USA,294134,2021-05-24,1
+C0899,Company_899,Enterprise,Philadelphia,Germany,152265,2021-09-21,1
+C0900,Company_900,Startup,Los Angeles,USA,297253,2022-09-28,1
+C0901,Company_901,Startup,Phoenix,USA,135356,2023-01-01,1
+C0902,Company_902,Enterprise,Dallas,USA,417449,2023-07-29,1
+C0903,Company_903,Non-profit,Dallas,UK,249629,2022-07-04,1
+C0904,Company_904,Government,Phoenix,UK,217802,2023-10-15,1
+C0905,Company_905,Government,Berlin,USA,395277,2022-10-30,1
+C0906,Company_906,SMB,Houston,UK,170582,2023-05-19,1
+C0907,Company_907,Non-profit,Chicago,Canada,268450,2020-05-31,1
+C0908,Company_908,Startup,Houston,USA,8849,2022-10-25,1
+C0909,Company_909,Enterprise,Phoenix,Germany,17360,2023-05-03,0
+C0910,Company_910,SMB,Philadelphia,France,378216,2023-07-30,1
+C0911,Company_911,Government,Chicago,USA,258279,2021-04-08,0
+C0912,Company_912,Startup,Los Angeles,USA,99767,2023-02-10,1
+C0913,Company_913,Startup,Houston,UK,266445,2020-09-27,1
+C0914,Company_914,Enterprise,Phoenix,UK,181872,2023-04-01,1
+C0915,Company_915,Government,Houston,France,435179,2021-04-04,1
+C0916,Company_916,Non-profit,Chicago,USA,59330,2020-04-14,1
+C0917,Company_917,Startup,London,Canada,56707,2023-07-29,1
+C0918,Company_918,Enterprise,Paris,USA,285833,2020-06-10,1
+C0919,Company_919,Non-profit,Houston,USA,34084,2020-12-16,1
+C0920,Company_920,Government,Los Angeles,UK,45387,2021-03-09,1
+C0921,Company_921,Startup,Los Angeles,USA,341960,2022-05-01,1
+C0922,Company_922,Non-profit,New York,USA,7642,2020-05-19,1
+C0923,Company_923,Non-profit,Houston,USA,309281,2023-03-01,1
+C0924,Company_924,Non-profit,Paris,USA,478048,2020-03-27,1
+C0925,Company_925,Startup,Berlin,USA,191633,2020-07-01,0
+C0926,Company_926,Startup,Dallas,Canada,329404,2021-01-02,1
+C0927,Company_927,SMB,Paris,USA,151510,2020-05-08,1
+C0928,Company_928,Government,Dallas,Germany,315586,2023-06-23,1
+C0929,Company_929,Enterprise,Dallas,Germany,370205,2021-10-31,1
+C0930,Company_930,Non-profit,London,Canada,401210,2023-11-02,1
+C0931,Company_931,SMB,New York,USA,259511,2020-05-28,1
+C0932,Company_932,Enterprise,Paris,France,392988,2022-09-11,1
+C0933,Company_933,SMB,Paris,UK,366719,2022-05-01,1
+C0934,Company_934,Startup,London,UK,268957,2023-12-27,1
+C0935,Company_935,Non-profit,Houston,UK,360171,2021-09-19,0
+C0936,Company_936,Enterprise,Houston,France,390633,2021-03-21,1
+C0937,Company_937,Enterprise,Houston,USA,89381,2022-06-02,1
+C0938,Company_938,Enterprise,Philadelphia,Germany,254880,2020-10-20,1
+C0939,Company_939,Enterprise,Dallas,UK,322420,2023-03-12,1
+C0940,Company_940,Enterprise,Philadelphia,Germany,308387,2020-09-06,1
+C0941,Company_941,SMB,New York,Canada,198984,2022-05-27,1
+C0942,Company_942,Non-profit,London,USA,65272,2022-08-05,1
+C0943,Company_943,Startup,Paris,Canada,178123,2022-09-01,1
+C0944,Company_944,Startup,Dallas,USA,477070,2023-08-18,1
+C0945,Company_945,Startup,Philadelphia,USA,218808,2022-11-14,1
+C0946,Company_946,Startup,Philadelphia,USA,258091,2022-02-27,1
+C0947,Company_947,SMB,Phoenix,USA,332762,2022-09-10,1
+C0948,Company_948,Government,Philadelphia,UK,269064,2022-06-07,1
+C0949,Company_949,Non-profit,Berlin,USA,111121,2022-06-08,1
+C0950,Company_950,Enterprise,Paris,USA,475435,2020-03-10,1
+C0951,Company_951,Government,Berlin,Canada,81872,2021-09-16,0
+C0952,Company_952,Startup,Paris,France,348276,2022-05-24,1
+C0953,Company_953,Government,London,France,269237,2023-02-09,0
+C0954,Company_954,Non-profit,Paris,France,280049,2023-10-19,1
+C0955,Company_955,Enterprise,Berlin,Germany,126759,2023-08-19,1
+C0956,Company_956,Enterprise,Paris,USA,422567,2021-04-15,1
+C0957,Company_957,Non-profit,London,USA,298125,2020-03-31,0
+C0958,Company_958,Non-profit,London,Germany,341047,2021-06-13,1
+C0959,Company_959,Startup,New York,USA,337965,2021-10-22,1
+C0960,Company_960,Enterprise,Paris,UK,376344,2022-01-08,1
+C0961,Company_961,Government,Phoenix,USA,87289,2021-12-26,1
+C0962,Company_962,SMB,Houston,USA,121506,2022-05-21,1
+C0963,Company_963,SMB,Los Angeles,UK,482237,2020-07-10,1
+C0964,Company_964,Non-profit,London,UK,83513,2023-06-19,1
+C0965,Company_965,Startup,Chicago,UK,418090,2020-05-17,1
+C0966,Company_966,SMB,Houston,UK,187003,2020-12-10,1
+C0967,Company_967,Enterprise,Dallas,USA,405890,2023-04-18,1
+C0968,Company_968,Non-profit,Paris,USA,317660,2022-10-05,1
+C0969,Company_969,Government,Berlin,France,264480,2021-05-17,1
+C0970,Company_970,Non-profit,Los Angeles,UK,267043,2020-07-21,1
+C0971,Company_971,Government,Chicago,USA,492790,2021-07-26,1
+C0972,Company_972,Non-profit,Houston,France,196758,2020-07-10,1
+C0973,Company_973,Non-profit,Paris,USA,493067,2020-01-05,1
+C0974,Company_974,Non-profit,New York,USA,336356,2023-06-14,1
+C0975,Company_975,Government,Dallas,USA,138498,2020-11-06,1
+C0976,Company_976,Government,Los Angeles,Germany,259024,2021-07-02,1
+C0977,Company_977,Non-profit,Phoenix,UK,135970,2020-02-25,1
+C0978,Company_978,SMB,New York,USA,95009,2021-03-18,1
+C0979,Company_979,Startup,Chicago,France,204570,2023-06-14,1
+C0980,Company_980,Startup,Los Angeles,USA,428159,2022-05-19,1
+C0981,Company_981,Startup,New York,USA,202467,2023-05-05,1
+C0982,Company_982,Government,Dallas,USA,49816,2021-08-07,1
+C0983,Company_983,Government,Phoenix,USA,9138,2022-01-21,0
+C0984,Company_984,SMB,New York,USA,498944,2020-12-25,1
+C0985,Company_985,Startup,Philadelphia,UK,96176,2022-03-29,1
+C0986,Company_986,Startup,Phoenix,France,343089,2020-01-30,1
+C0987,Company_987,Non-profit,Chicago,UK,271161,2020-04-17,1
+C0988,Company_988,Government,Dallas,USA,277595,2022-04-23,1
+C0989,Company_989,Startup,Paris,USA,199028,2021-12-17,1
+C0990,Company_990,SMB,Berlin,USA,361007,2022-06-09,1
+C0991,Company_991,SMB,Berlin,USA,277422,2022-08-17,1
+C0992,Company_992,Startup,Berlin,Germany,226552,2022-06-11,1
+C0993,Company_993,Government,Los Angeles,USA,48764,2022-01-01,1
+C0994,Company_994,SMB,Chicago,Germany,128030,2021-08-28,1
+C0995,Company_995,Non-profit,Dallas,France,399350,2021-04-01,1
+C0996,Company_996,SMB,Phoenix,USA,330087,2021-09-06,1
+C0997,Company_997,Enterprise,Los Angeles,France,100667,2021-11-28,1
+C0998,Company_998,Enterprise,Chicago,UK,321462,2021-11-04,1
+C0999,Company_999,Government,Paris,UK,370567,2023-06-24,0
+C1000,Company_1000,Startup,Philadelphia,UK,371142,2021-06-26,1

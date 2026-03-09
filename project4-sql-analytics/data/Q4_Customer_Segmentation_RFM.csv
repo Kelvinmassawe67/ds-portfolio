@@ -1,0 +1,31 @@
+segment,region,recency_score,frequency_score,monetary_score,customer_count,avg_clv,total_revenue
+SMB,North America,High,High,High,32,257276.92,8232861.54
+Enterprise,Latin America,High,High,High,31,255006.51,7905201.76
+Consumer,Latin America,High,High,High,26,280922.32,7303980.25
+Government,MEA,High,High,High,27,270190.78,7295151.02
+Enterprise,MEA,High,High,High,28,253864.94,7108218.2
+Government,Europe,High,High,High,25,274301.31,6857532.66
+Consumer,Europe,High,High,High,26,253493.83,6590839.46
+SMB,Latin America,High,High,High,23,265953.53,6116931.13
+Consumer,North America,High,High,High,20,284962.07,5699241.47
+Consumer,Asia Pacific,High,High,High,21,258118.26,5420483.54
+Enterprise,North America,High,High,High,20,261968.8,5239376.06
+Government,Latin America,High,High,High,20,244199.53,4883990.62
+Enterprise,Asia Pacific,High,High,High,17,277149.28,4711537.71
+Government,North America,Low,Medium,High,31,150662.03,4670523.07
+SMB,Asia Pacific,High,High,High,18,255339.52,4596111.29
+SMB,Europe,High,High,High,17,262757.43,4466876.35
+Government,Asia Pacific,High,High,High,16,277736.45,4443783.18
+Consumer,Latin America,High,Medium,High,28,156429.49,4380025.82
+Government,North America,High,High,High,16,271405.54,4342488.63
+Consumer,MEA,High,High,High,15,288288.9,4324333.5
+SMB,North America,Medium,High,High,13,322753.62,4195797.1
+Enterprise,MEA,High,Medium,High,26,157182.82,4086753.43
+Enterprise,Europe,Low,Medium,High,23,175931.72,4046429.54
+Government,Latin America,High,Medium,High,23,175548.57,4037617.02
+Consumer,North America,High,Medium,High,22,180787.1,3977316.09
+Enterprise,Latin America,High,Medium,High,24,160525.2,3852604.72
+Consumer,Europe,High,Medium,High,22,172989.83,3805776.17
+SMB,MEA,High,High,High,13,291906.26,3794781.38
+Government,Europe,High,Medium,High,22,172473.54,3794417.9
+SMB,Europe,Low,High,High,14,267290.79,3742071.08
